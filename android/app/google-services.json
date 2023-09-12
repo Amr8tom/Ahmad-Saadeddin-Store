@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158071681019",
+    "project_id": "gostore-4d1db",
+    "storage_bucket": "gostore-4d1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158071681019:android:d8bf0c1dfafed18129e55e",
+        "android_client_info": {
+          "package_name": "com.gostore.gostore_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158071681019-hmib3d0ai2v88v3e7a7dsdf7pfimhasl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gostore.gostore_app",
+            "certificate_hash": "bd3fedae48be6004ec6f632eeceea3aa06e199e8"
+          }
+        },
+        {
+          "client_id": "158071681019-ebiumgof83g8md8id90435brgif4i8i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM-kpPSySjSVONziH__qObdLhpk6mtf9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158071681019-ebiumgof83g8md8id90435brgif4i8i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
